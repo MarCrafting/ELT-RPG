@@ -56,4 +56,4 @@ Go to the `ELT Game` folder and launch the `Echoes of the Lost Tongue.exe` execu
 >```js
 >"apiKey": "MySecureApiKey",
 
-## [Download the Latest Model](https://github.com/MarCrafting/ELT-RPG/releases/download/)
+## [Download the Latest Model](https://github.com/MarCrafting/ELT-RPG/releases/)
