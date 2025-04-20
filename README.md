@@ -7,6 +7,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/marcrafting/ELT-RPG)
 ![GitHub contributors](https://img.shields.io/github/contributors/marcrafting/ELT-RPG)
 
+## [Download the Latest Model](https://github.com/MarCrafting/ELT-RPG/releases/)
+
 ## Instructions to get the game to its intentional functioning state:
 
 1. Ensure you have downloaded Anki and have it opened. The `Anki Essentials` folder provides all you need to set up Anki. You can also download Anki directly from [Anki's download page](https://apps.ankiweb.net).
@@ -55,5 +57,3 @@ Go to the `ELT Game` folder and launch the `Echoes of the Lost Tongue.exe` execu
 >**A:** After updating the Anki-Connect add-on Config, don't forget to click `Apply` to save the changes. If issues persist, try uninstalling Anki-Connect (ONLY THE ADD-ON) and reinstall it. When you open the Config, only edit the `apiKey` field. Change the value to `"MySecureApiKey",`. The line should look like this:
 >```js
 >"apiKey": "MySecureApiKey",
-
-## [Download the Latest Model](https://github.com/MarCrafting/ELT-RPG/releases/)
