@@ -1,5 +1,5 @@
 # Echoes of the Lost Tongue
-![image](https://github.com/user-attachments/assets/995c6499-73b5-4909-9462-4c2045f0e3ef)
+![image](https://github.com/user-attachments/assets/28c23943-fca6-48ef-8bf2-23187f80ce9b)
 
 > A language learning RPG providing the immersive environment best suited for learning new languages.
 
